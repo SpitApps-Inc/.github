@@ -1,1 +1,1 @@
-# Wrong file, go to [/profile/README.md](/profile/README.MD) instead
+# Wrong file, go to [/profile/README.md](/profile/README.md) instead

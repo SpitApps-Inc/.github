@@ -1,1 +1,1 @@
-# .github
+# Wrong file, go to [/profile/README.md](/profile/README.MD) instead

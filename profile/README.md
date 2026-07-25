@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/assets/spitappstext.svg" alt="SpitApps, Inc. Logo Wordmark" height="200">
-  <h1>(Incorporated) est. 2026
+  <h1>(Incorporated), est. 2026
 
   ‍
   
